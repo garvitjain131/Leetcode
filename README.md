@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/garvitjain131/Leetcode/tree/master/0001-two-sum) |
 | [0055-jump-game](https://github.com/garvitjain131/Leetcode/tree/master/0055-jump-game) |
 ## Dynamic Programming
 |  |
@@ -13,4 +14,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/garvitjain131/Leetcode/tree/master/0055-jump-game) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/garvitjain131/Leetcode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
