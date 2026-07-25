@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/garvitjain131/Leetcode/tree/master/0055-jump-game) |
+| [1903-largest-odd-number-in-string](https://github.com/garvitjain131/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/garvitjain131/Leetcode/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/garvitjain131/Leetcode/tree/master/0069-sqrtx) |
+| [1903-largest-odd-number-in-string](https://github.com/garvitjain131/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Matrix
 |  |
 | ------- |
@@ -99,4 +101,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/garvitjain131/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [1903-largest-odd-number-in-string](https://github.com/garvitjain131/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
