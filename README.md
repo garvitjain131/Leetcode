@@ -12,10 +12,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/garvitjain131/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/garvitjain131/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0048-rotate-image](https://github.com/garvitjain131/Leetcode/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/garvitjain131/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/garvitjain131/Leetcode/tree/master/0055-jump-game) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/garvitjain131/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/garvitjain131/Leetcode/tree/master/0055-jump-game) |
 ## Greedy
 |  |
@@ -50,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/garvitjain131/Leetcode/tree/master/0048-rotate-image) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/garvitjain131/Leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
