@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/garvitjain131/Leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/garvitjain131/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/garvitjain131/Leetcode/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/garvitjain131/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0055-jump-game](https://github.com/garvitjain131/Leetcode/tree/master/0055-jump-game) |
 ## Dynamic Programming
 |  |
@@ -34,4 +35,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/garvitjain131/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/garvitjain131/Leetcode/tree/master/0018-4sum) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/garvitjain131/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
