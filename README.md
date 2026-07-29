@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/garvitjain131/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/garvitjain131/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/garvitjain131/Leetcode/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/garvitjain131/Leetcode/tree/master/0118-pascals-triangle) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/garvitjain131/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/garvitjain131/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/garvitjain131/Leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/garvitjain131/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/garvitjain131/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/garvitjain131/Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/garvitjain131/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/garvitjain131/Leetcode/tree/master/0151-reverse-words-in-a-string) |
